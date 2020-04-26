@@ -19,13 +19,13 @@ Recalculate the scores by grade, scores by school spending, scores by school siz
 How does replacing the ninth-grade scores affect the following?
 
 Math and Reading Scores by Grade
-  Thomas gets a Nan instead of a score for both math and reading in 9th grade
+  - Thomas gets a Nan instead of a score for both math and reading in 9th grade
 
 Scores by School Spending
-  Passing math, passing reading, and overall passing percentages were significantly lowered for $630-$644/student range
+  - Passing math, passing reading, and overall passing percentages were significantly lowered for $630-$644/student range
 
 Scores by School Size
-  Passing math, passing reading, and overall passing percentages were significantly lowered for Medium sized schools
+  - Passing math, passing reading, and overall passing percentages were significantly lowered for Medium sized schools
 
 Scores by School Type
-  Passing math, passing reading, and overall passing percentages were significantly lowered for Charter schools
+  - Passing math, passing reading, and overall passing percentages were significantly lowered for Charter schools
